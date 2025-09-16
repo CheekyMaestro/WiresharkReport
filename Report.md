@@ -28,7 +28,8 @@
 <br>
 **Wireshark**
 ![](https://i.imgur.com/pa5QmRJ.png)
-<img width="1257" height="985" alt="image" src="https://github.com/user-attachments/assets/07b121b7-34f3-41f8-8767-90f603c1acc7" />
+![]("https://github.com/user-attachments/assets/07b121b7-34f3-41f8-8767-90f603c1acc7")
+
 
 
 **Terminal**
