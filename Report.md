@@ -25,7 +25,7 @@
   `Using 'Capture File properties' to see how many packet recorded `
 
 - Output result
-<br>
+
 **Wireshark**
 
 
@@ -83,11 +83,15 @@
   `Using 'protocol Hierarchy' to see how many  TCP-based applications protocol are recorded in the traffic?`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/pl10AY9.png)
+  
+  <img width="1361" height="550" alt="image" src="https://github.com/user-attachments/assets/0386f846-9d27-4118-9d45-e3a01c498aae" />
+
   **Terminal**
-![](https://i.imgur.com/Z9VsOAv.png)
+  
+<img width="958" height="471" alt="image" src="https://github.com/user-attachments/assets/abf48ff4-606d-4471-adb9-5691bd45ee7d" />
+
 
 
   <br>
@@ -108,11 +112,16 @@
   `Using 'protocol Hierarchy' to see how many packets with pure TCP protocol are recorded in the traffic (without data)?_`
 
 - Output result
-<br>
+
+  
  **Wireshark**
-  ![](https://i.imgur.com/pl10AY9.png)
+ 
+  <img width="1361" height="550" alt="image" src="https://github.com/user-attachments/assets/75676ab3-2725-4dee-9a18-c7de2bf86dda" />
+
   **Terminal**
-![](https://i.imgur.com/Z9VsOAv.png)
+  
+<img width="958" height="471" alt="image" src="https://github.com/user-attachments/assets/c18393bb-29a3-4179-80f9-9cd200124440" />
+
 
 ## Task 2
 
