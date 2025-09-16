@@ -619,7 +619,7 @@
 **Wireshark**
  <img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/2e2b7c80-003e-491b-8f57-1f2b90196169" />
 
-     **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
   ![alt text](https://i.imgur.com/SFxhjfZ.png)
 
   <br>
