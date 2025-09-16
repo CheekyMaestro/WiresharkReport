@@ -358,7 +358,7 @@
 **Wireshark**
   <img width="1225" height="328" alt="image" src="https://github.com/user-attachments/assets/aea4070c-e89e-4b69-b40a-fc53f0d63022" />
 
-    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
   
  <img width="900" height="727" alt="image" src="https://github.com/user-attachments/assets/a0b59b43-b3da-4237-96dc-7eb0673d988b" />
 
@@ -677,7 +677,7 @@
 
  <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/8bc6de7b-9fb8-4c0d-9fb9-0474ef3663b5" />
 
-     **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
   <img width="978" height="779" alt="image" src="https://github.com/user-attachments/assets/2c4d3924-26f8-4e4f-b431-64969044a5d3" />
 
 
@@ -896,7 +896,6 @@
 
 - In Task 10, you found the encoded file (secret.txt), its copy (secret1.txt), and correctly decoded the Base64 string to readable Indonesian text.
 
-## Problems
 
 ## Problems
 
