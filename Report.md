@@ -55,7 +55,7 @@
   `Using 'protocol Hierarchy' to see how many  types of protocol`
 
 - Output result
-<br>
+  
 
 **Wireshark**
 
@@ -144,11 +144,16 @@
   `To filter the pure tcp ( Without data ) and to filter tcp with ack flags. And we can see one “TCP ACKed unseen segment” `
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/vaFTsNQ.png)
+
+ 
+ <img width="966" height="925" alt="image" src="https://github.com/user-attachments/assets/33708b10-ca4a-47d8-8b79-5c9422d2545d" />
+
   **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/xm0CiPs.png)
+  
+  <img width="842" height="503" alt="image" src="https://github.com/user-attachments/assets/40ceca17-4368-4f60-8b61-88b49f6ca229" />
+
 
   <br>
   <br>
@@ -168,11 +173,15 @@
   `To see only the pure tcp and have only the ack flags by making the other flag zero. After that we got 3174 becuase there are two “TCP ACKed unseen segment” `
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/0M7oV75.png)
-    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/xm0CiPs.png)
+
+  <img width="953" height="1003" alt="image" src="https://github.com/user-attachments/assets/a3bb83ee-68ed-4f86-9000-0c76e98bc1e4" />
+
+   **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+    
+ <img width="842" height="503" alt="image" src="https://github.com/user-attachments/assets/6af4725a-e7fe-4a21-99c0-2301a4eef295" />
+
 
   <br>
   <br>
@@ -192,13 +201,18 @@
   `We can see the all packets with pure TCP is 3223 and with ack file is 3172 and we can get the result is 51. But there are two TCP ACKed unseen segment” ` 
 
 - Output result
-<br>
-**Wireshark**
-  ![](https://i.imgur.com/l9t8gso.png)
-  ![](https://i.imgur.com/l9t8gso.png)
 
-    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/xm0CiPs.png)
+**Wireshark**
+
+  <img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/94eb6d9a-d531-4abc-b042-5ef4e484a8f3" />
+
+  <img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/d2e69ea4-aeb8-469d-b7f2-218bfa09194e" />
+
+
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+  
+  <img width="842" height="503" alt="image" src="https://github.com/user-attachments/assets/a5c8c552-6a9b-4ea6-a96f-184515ac58ca" />
+
 
   <br>
   <br>
@@ -224,11 +238,14 @@
   `Just search telnet to see the telnet client, and we can see in S`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/s5zRRio.png)
-      **Terminal**
-  ![](https://i.imgur.com/fc2sBxb.png)
+
+  <img width="1909" height="908" alt="image" src="https://github.com/user-attachments/assets/0f1476f3-e30a-4ea8-a280-e5023028f384" />
+
+  **Terminal**
+ <img width="959" height="413" alt="image" src="https://github.com/user-attachments/assets/53bd745d-90d5-4461-ad11-b9d036580566" />
+
 
   <br>
   <br>
@@ -248,11 +265,15 @@
   `Just filter telnet and follow one of the stream and we can see at file response file in bytes. And after that we can see thar the total bytes is 1449 bytes`
 
 - Output result
-<br>
+  
   **Wireshark**
-  ![](https://i.imgur.com/q64nQK5.png)
-      **Terminal**
-  ![](https://i.imgur.com/fc2sBxb.png)
+  
+  <img width="1271" height="1001" alt="image" src="https://github.com/user-attachments/assets/48c4d99c-c604-4e64-aba3-b8a0e33ab230" />
+
+  **Terminal**
+  
+  <img width="959" height="413" alt="image" src="https://github.com/user-attachments/assets/9b997d56-f4b1-468f-ab50-1f3e00da68e2" />
+
 
   <br>
   <br>
@@ -272,11 +293,15 @@
   `Just follow one of the telnet filter and follow the tcp stream and we can see the username`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/VHlFAJT.png)
-    **Terminal**
-  ![](https://i.imgur.com/fc2sBxb.png)
+
+  <img width="1216" height="868" alt="image" src="https://github.com/user-attachments/assets/6f2da2f7-9e06-4960-b424-e589ff82faef" />
+
+  **Terminal**
+  
+  <img width="959" height="413" alt="image" src="https://github.com/user-attachments/assets/5b2cc63e-0719-461e-be55-04890e6e6a58" />
+
 
   <br>
   <br>
@@ -296,9 +321,11 @@
   `Just follow one of the telnet filter and follow the tcp stream and we can see the password`
 
 - Output result
-<br>
+
   **Wireshark**
-  ![](https://i.imgur.com/VHlFAJT.png)
+  
+  <img width="1216" height="868" alt="image" src="https://github.com/user-attachments/assets/c17d7c21-82ed-4c61-ab82-222c5bed0cfc" />
+
 
   **Terminal**
   ![](https://i.imgur.com/fc2sBxb.png)
@@ -327,11 +354,13 @@
   `To filter with the telnet connection we use telnet. And follow the TCP stream. After that we can scroll down to see the first command is 'echo'`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/A9DDsLd.png)
+  <img width="1225" height="328" alt="image" src="https://github.com/user-attachments/assets/aea4070c-e89e-4b69-b40a-fc53f0d63022" />
+
     **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/pUXrHaw.png)
+  
+ <img width="900" height="727" alt="image" src="https://github.com/user-attachments/assets/a0b59b43-b3da-4237-96dc-7eb0673d988b" />
 
   <br>
   <br>
@@ -351,11 +380,15 @@
   `To filter with the telnet connection we use telnet. And follow the TCP stream. After that we can find the stream by using find "txt"`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/1TTTPfk.png)
-    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/pUXrHaw.png)
+
+  <img width="1257" height="210" alt="image" src="https://github.com/user-attachments/assets/3ca44245-6eb1-4b7d-a9f9-61db7807c0c6" />
+
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+
+  <img width="900" height="727" alt="image" src="https://github.com/user-attachments/assets/e445dc08-240c-4295-b04c-148d32cf3df4" />
+
 
   <br>
   <br>
@@ -375,11 +408,14 @@
   `To filter with the telnet connection we use telnet. And follow the TCP stream. After that we can find the stream by using find echo, and we can scroll down to see the first word that client inserted`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/AIplbSW.png)
-    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/pUXrHaw.png)
+
+  <img width="1276" height="881" alt="image" src="https://github.com/user-attachments/assets/01e05a20-88af-47ef-aa5c-6c10118b912f" />
+
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+  <img width="900" height="727" alt="image" src="https://github.com/user-attachments/assets/299d16bd-ac44-4c89-9a76-343ddc320dc7" />
+
 
   <br>
   <br>
@@ -405,11 +441,15 @@
   `After we filter it with http, we can see the displayed http is 298`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/RjhTb0H.png)
-     **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/PVbVs2h.png)
+
+  <img width="957" height="1012" alt="image" src="https://github.com/user-attachments/assets/1c1adc33-6f2d-4fa0-99d4-16473c6f7d73" />
+
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+  
+ <img width="926" height="766" alt="image" src="https://github.com/user-attachments/assets/c430b2e6-8ada-4007-b443-c4b9d2c56cdc" />
+
 
   <br>
   <br>
@@ -429,11 +469,14 @@
   `We can filter the HTTP one with additional 'response' to see all the HTTP response`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/KNOXNPV.png)
-   **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/PVbVs2h.png)
+
+  <img width="957" height="1016" alt="image" src="https://github.com/user-attachments/assets/2af9c5b3-098f-42eb-ace0-16aaa0137fd4" />
+
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+  <img width="926" height="766" alt="image" src="https://github.com/user-attachments/assets/0cc45038-fb0f-4869-9264-7c48df425d9a" />
+
 
   <br>
   <br>
@@ -453,11 +496,15 @@
   `We can filter it by seeing the http and we can see there are two TCP previous segment not captured`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/vtjmmZA.png)
+
+ <img width="956" height="1013" alt="image" src="https://github.com/user-attachments/assets/a2d1c7ef-2469-4b2b-9993-48d78489ee94" />
+
    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/PVbVs2h.png)
+   
+ <img width="926" height="766" alt="image" src="https://github.com/user-attachments/assets/3205a40e-4869-4194-9aa8-228071b93185" />
+
 
   <br>
   <br>
@@ -477,11 +524,14 @@
   `After we filter it by http, we can see the src or HTTP IP address that are in connection with the local machine is '172.16.16.101`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/vtjmmZA.png)
+  
+  <img width="956" height="1013" alt="image" src="https://github.com/user-attachments/assets/6b4f5a70-8dd5-4dd9-a518-5129b76caea1" />
+
    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/PVbVs2h.png)
+  <img width="926" height="766" alt="image" src="https://github.com/user-attachments/assets/2108ca06-45c4-40b1-a4ec-b108b4f479dc" />
+
 
   <br>
   <br>
@@ -507,11 +557,14 @@
   `Using the search filter and search flag. After that we choose the HTTP stream. By that we can see the fake flag`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/9Mez1mx.png)
+
+  <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/dde18998-9018-4a48-b341-832a99308023" />
+
    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/CXgefLr.png)
+  <img width="985" height="530" alt="image" src="https://github.com/user-attachments/assets/04acb810-3284-4327-a190-4ff9d6a7532f" />
+
 
   <br>
   <br>
@@ -531,11 +584,13 @@
   `If we want to see the username and password we cans search it by see the username and password in the string`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/XVykxfj.png)
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/0b0b5f24-e97f-406b-a8e3-d6e2901166a2" />
+
    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/CXgefLr.png)
+  <img width="985" height="530" alt="image" src="https://github.com/user-attachments/assets/49b7c81d-44b1-43b3-a170-cb40436042d7" />
+
   <br>
   <br>
 
@@ -560,9 +615,10 @@
   `If we want to see the image that requested by the client we have to filter it using HTTP to filter the connection that request a website. After that we know commonly picture in the website in a jpg format. So we can see in the picture it mentioned 'donalbebek.jpg'. Afterwards we can see the below website send the picture that already requested`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/ItJfd1I.png)
+ <img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/2e2b7c80-003e-491b-8f57-1f2b90196169" />
+
      **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
   ![alt text](https://i.imgur.com/SFxhjfZ.png)
 
@@ -590,11 +646,13 @@
   `We can see the filter FTP is for the FTP package with an addition FTP data because the question is asked to do so`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/DWRLt97.png)
+  <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/1e2588ed-6a88-41e6-9e2b-e95fbc812210" />
+
    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/cOtCgwV.png)
+  <img width="978" height="779" alt="image" src="https://github.com/user-attachments/assets/1c119a97-348a-4d74-9845-80eef61b3195" />
+
 
   <br>
   <br>
@@ -614,11 +672,14 @@
   `To see the client's username and password in FTP by see the client who succes login, so we can search it by search by the find tools that provided by wireshark and search 'successful`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/Pofq015.png)
+
+ <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/8bc6de7b-9fb8-4c0d-9fb9-0474ef3663b5" />
+
      **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/cOtCgwV.png)
+  <img width="978" height="779" alt="image" src="https://github.com/user-attachments/assets/2c4d3924-26f8-4e4f-b431-64969044a5d3" />
+
 
   <br>
   <br>
@@ -638,11 +699,13 @@
   `We can see the clients send the command LIST to see all the directory server for the FTP `
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/Pofq015.png)
-       **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/cOtCgwV.png)
+ <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/bdf66e06-4238-4485-ad14-f506a14e2373" />
+
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+  <img width="978" height="779" alt="image" src="https://github.com/user-attachments/assets/f009cfeb-364b-4c0b-83f5-154c6226cdf8" />
+
 
   <br>
   <br>
@@ -668,11 +731,13 @@
   `Imagine two people are talking: one asks (the client), and one answers (the server).In the capture, the answers like “Welcome” and “Login successful” always come from 172.16.16.101.`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/NTRysqL.png)
+ <img width="1268" height="1010" alt="image" src="https://github.com/user-attachments/assets/e540ce34-1ca1-4abe-8456-973b1fc435c4" />
+
   **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/xaFex5A.png)
+ <img width="986" height="660" alt="image" src="https://github.com/user-attachments/assets/05fa437c-8b85-4e1c-86aa-198472ae80be" />
+
 
   <br>
   <br>
@@ -692,11 +757,14 @@
   `We can check it by seeing the following tcp stream untul we see the files inside the FTP server`
 
 - Output result
-<br>
+
 **Wireshark**
-  ![](https://i.imgur.com/zU5jMZc.png)
-    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/xaFex5A.png)
+
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/d5f50ceb-fdef-432a-88a9-cdd6b373b857" />
+
+  **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
+ <img width="986" height="660" alt="image" src="https://github.com/user-attachments/assets/ef2434b8-b919-43d2-b68d-bd0d24f7bcf6" />
+
 
 
   <br>
@@ -717,11 +785,13 @@
   `We follow the tcp stream one by one and we can see the one with the form of HTMl and we can see there are pokijan and research center in the form of jpg`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/H6xVn15.png)
+  <img width="1271" height="815" alt="image" src="https://github.com/user-attachments/assets/820ab9c0-69a9-4c4b-be6c-a1354beb6826" />
+
    **Terminal ( Sorry i forgot to Screenshoot, but i already copy paste all my command in Mincrosoft Word)**
-  ![](https://i.imgur.com/xaFex5A.png)
+  <img width="986" height="660" alt="image" src="https://github.com/user-attachments/assets/a2f2efea-18a9-4bff-9b59-9a4183f752d4" />
+
 
   <br>
   <br>
@@ -747,11 +817,13 @@
   `We can see usually file to keep some encoded string is in a txt file. In addition we can see the file is in the name of 'secret.txt'. It's to prove it some secret stuff with encoded string or we need some additional tools so we can understand it in human language or decoded it`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/mbMhTxz.png)
+  
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/8f13280d-fd42-4f49-a68b-71a2ee426cea" />
+
   **Terminal**
-![](https://i.imgur.com/C0URwIt.png)
+<img width="968" height="378" alt="image" src="https://github.com/user-attachments/assets/2a6cac5c-1493-4bbf-b7ba-99a81be8dc0c" />
 
   <br>
   <br>
@@ -771,12 +843,14 @@
   `We can see if we want to copy some file we can not name it in the exactly same name, so we have to rename it. Thus secret1 is almost precisely the same as secret.txt. So we know is the copy form of "secret.txt"`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/mbMhTxz.png)
+ <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/ced2ed79-e3ee-4f7e-a39d-6debe8f7da6d" />
+
 
   **Terminal**
-![](https://i.imgur.com/C0URwIt.png)
+<img width="968" height="378" alt="image" src="https://github.com/user-attachments/assets/e96cd6bc-dddc-4e31-9a90-2b5f60b341f0" />
+
 
   <br>
   <br>
@@ -796,14 +870,17 @@
   `We can see the encode file and we can using the base 64 to decoded the string into some human language that we can understand`
 
 - Output result
-<br>
+  
 **Wireshark**
-  ![](https://i.imgur.com/mbMhTxz.png)
+ <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/d328cc4a-9bab-4978-8e43-d1631f841bb6" />
+
 **Base 64**
-![](https://i.imgur.com/tp2kxbL.png)
+<img width="1912" height="963" alt="image" src="https://github.com/user-attachments/assets/6e709840-1019-4922-9ce4-1fa07cda6064" />
+
 
 **Terminal**
-![](https://i.imgur.com/C0URwIt.png)
+<img width="968" height="378" alt="image" src="https://github.com/user-attachments/assets/cbd87a4d-2556-48df-825c-73bef0085111" />
+
 
   <br>
   <br>
