@@ -27,7 +27,7 @@
 - Output result
 <br>
 **Wireshark**
-![](https://i.imgur.com/pa5QmRJ.png)
+
 
 ![](https://github.com/user-attachments/assets/07b121b7-34f3-41f8-8767-90f603c1acc7)
 
@@ -57,7 +57,8 @@
 - Output result
 <br>
 **Wireshark**
-  ![](https://i.imgur.com/pl10AY9.png)
+  ![](<img width="1361" height="550" alt="image" src="https://github.com/user-attachments/assets/702c6055-66e2-497b-a8b0-d6878ab9be3d" />
+)
   **Terminal**
 ![](https://i.imgur.com/Z9VsOAv.png)
 
